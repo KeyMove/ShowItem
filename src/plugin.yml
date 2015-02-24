@@ -1,0 +1,5 @@
+## YAML Template.
+---
+name: ShowItem
+main: showitem.ShowItem
+version: 1.0.0
